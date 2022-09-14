@@ -15,5 +15,4 @@ function totalPages(arrayItems, rowsPerPage) {
     return Math.ceil(arrIt.length/row)
   }
 }
-
 module.exports = totalPages
