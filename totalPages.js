@@ -16,5 +16,4 @@ function totalPages(arrayItems, rowsPerPage) {
   }
 }
 
-
 module.exports = totalPages
